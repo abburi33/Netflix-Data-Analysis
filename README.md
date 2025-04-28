@@ -26,7 +26,7 @@ All insights are visualized using interactive charts with Plotly.
 
 ---
 
-## 📁 Dataset (if applicable)
+## 📁 Dataset
 
 The dataset used is Netflix Movies and TV Shows available on Kaggle.
 It contains information about TV Shows and Movies available on Netflix as of 2019.
