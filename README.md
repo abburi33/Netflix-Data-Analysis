@@ -16,20 +16,17 @@ All insights are visualized using interactive charts with Plotly.
 
 ---
 
-## 🛠 Tech Stack / Tools Used
-
+## 🛠 Tech Stack
 - Python 3
-- Pandas & NumPy (data processing)
-  - Plotly Express (visualization)
-  - TextBlob (sentiment analysis)
-  - Jupyter Notebook (for development)
-
+- Pandas & NumPy — data manipulation
+- Plotly Express — interactive visualizations
+- TextBlob — sentiment analysis
+- Notebook — development and analysis
 ---
 
 ## 📁 Dataset
 
-The dataset used is Netflix Movies and TV Shows available on Kaggle.
-It contains information about TV Shows and Movies available on Netflix as of 2019.
-
+- Source: Netflix Movies and TV Shows on Kaggle
 - Filename: netflix_titles.csv
 - Shape: 6234 rows × 12 columns
+- Description: Contains metadata for movies and TV shows available on Netflix as of 2019, including title, cast, director, country, release year, rating, and description.
